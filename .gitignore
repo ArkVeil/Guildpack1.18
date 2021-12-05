@@ -1,0 +1,15 @@
+.fabric/
+crash-reports/
+logs/
+Custom Origins/
+disabledmods/
+jarmods/
+patched_shaders/
+saves/
+screenshots/
+instance.json
+options.txt
+realms_persistence.json
+servers.dat
+usercache.json
+Guildpack1.18-v1.1.zip
