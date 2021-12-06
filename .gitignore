@@ -19,3 +19,5 @@ config/sound_physics_remastered/occlusion.properties
 config/sound_physics_remastered/reflectivity.properties
 config/sound_physics_remastered/soundphysics.properties
 config/voicechat/voicechat-client.properties
+config/AdvancedCompass/waypoints/Demo/waypoints.json
+config/voicechat/voicechat-volumes.properties
