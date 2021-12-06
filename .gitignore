@@ -13,11 +13,5 @@ realms_persistence.json
 servers.dat
 usercache.json
 Guildpack1.18-v1.1.zip
-config/fabric/indigo-renderer.properties
-config/iris.properties
-config/sound_physics_remastered/occlusion.properties
-config/sound_physics_remastered/reflectivity.properties
-config/sound_physics_remastered/soundphysics.properties
-config/voicechat/voicechat-client.properties
-config/AdvancedCompass/waypoints/Demo/waypoints.json
+config/AdvancedCompass/waypoints
 config/voicechat/voicechat-volumes.properties
