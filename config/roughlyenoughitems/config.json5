@@ -1,8 +1,6 @@
 {
 	"basics": {
-		"favorites": [
-			"{data:{Count:1b,id:\"minecraft:cobbled_deepslate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
-		],
+		"favorites": [],
 		// Declares whether cheating mode is on.
 		"cheating": false,
 		"favoritesEnabled": true,
@@ -32,7 +30,7 @@
 				"modifier": 0
 			},
 			"copyRecipeIdentifierKeybind": {
-				"keyCode": "key.keyboard.unknown",
+				"keyCode": "key.mouse.middle",
 				"modifier": 0
 			},
 			"favoriteKeybind": {
@@ -40,7 +38,7 @@
 				"modifier": 0
 			},
 			"exportImageKeybind": {
-				"keyCode": "key.keyboard.unknown",
+				"keyCode": "key.keyboard.f8",
 				"modifier": 0
 			},
 			"previousScreenKeybind": {
@@ -122,7 +120,7 @@
 		}
 	},
 	"appearance": {
-		"recipeScreenType": "COMPOSITE",
+		"recipeScreenType": "UNSET",
 		// Declares the appearance of REI windows.
 		"theme": "LIGHT",
 		"layout": {

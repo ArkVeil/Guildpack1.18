@@ -5,8 +5,8 @@
   "AmethystLamp": true,
   "NoteBlockAmethystSounds": true,
   "EnchantmentPrecision": true,
-  "EnchantmentSpeed": false,
-  "CompostableRottenFlesh": false,
+  "EnchantmentSpeed": true,
+  "CompostableRottenFlesh": true,
   "GlowStick": true,
   "PoweredRailsCopperRecipe": true,
   "ChickenNugget": true,
@@ -14,7 +14,7 @@
   "GoldRing": true,
   "Crossbows": true,
   "MusicDiscs": true,
-  "RoseGold": false,
+  "RoseGold": true,
   "FoodItems": true,
   "Potions": true,
   "WateringCan": true,
@@ -22,6 +22,6 @@
   "Ropes": true,
   "TridentShard": true,
   "ShipwreckSpyglassLoot": true,
-  "DepthMeter": false,
+  "DepthMeter": true,
   "PocketJukebox": true
 }
