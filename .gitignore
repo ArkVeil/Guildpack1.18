@@ -17,3 +17,7 @@ config/AdvancedCompass/waypoints
 config/voicechat/voicechat-volumes.properties
 config/.DS_Store
 icon.png
+config/sound_physics_remastered/occlusion.properties
+config/sound_physics_remastered/reflectivity.properties
+config/sound_physics_remastered/soundphysics.properties
+config/fabric/indigo-renderer.properties
