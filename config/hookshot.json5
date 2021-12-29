@@ -21,7 +21,7 @@
 	/* The base maximum range of the Hookshot with no
 	     upgrades applied. (Default: 24 blocks)
 	*/
-	"defaultMaxRange": 24.0,
+	"defaultMaxRange": 16.0,
 	/* The base maximum speed of the Hookshot with no
 	     upgrade applied. (Default: 10 blocks/s)
 	*/
