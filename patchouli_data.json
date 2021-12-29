@@ -1,0 +1,26 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "phonos:phonos_guidebook": {
+      "viewedEntries": [
+        "phonos:playing_music/radio_jukeboxes",
+        "phonos:playing_music/radio_note_blocks",
+        "phonos:loudspeakers/operating_loudspeakers",
+        "phonos:loudspeakers/decorative_loudspeakers",
+        "phonos:tuning_tools/channel_tuners",
+        "phonos:tuning_tools/note_block_tuners"
+      ],
+      "bookmarks": [],
+      "history": [
+        "phonos:tuning_tools/note_block_tuners",
+        "phonos:tuning_tools/channel_tuners",
+        "phonos:loudspeakers/decorative_loudspeakers",
+        "phonos:playing_music/radio_note_blocks",
+        "phonos:loudspeakers/operating_loudspeakers",
+        "phonos:playing_music/radio_jukeboxes"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
