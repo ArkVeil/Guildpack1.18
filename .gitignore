@@ -24,3 +24,10 @@ config/fabric/indigo-renderer.properties
 config/roughlyenoughitems/config.json5
 config/iris.properties
 config/awesomedungeon_general_.properties
+config/replaymod-rendersettings.json
+config/voicechat/voicechat-server.properties
+config/voicechat/voicechat-client.properties
+export.log
+replay_videos/
+replay_recordings/
+.replay_cache/
